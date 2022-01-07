@@ -9,4 +9,5 @@ layout: caribbean_books_item
 collection: caribbean_books
 thumbnail: "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj4/manifest.json"
+full: "/img/derivatives/iiif/images/obj4/full/1140,/0/default.jpg"
 ---
